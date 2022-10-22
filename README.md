@@ -10,3 +10,5 @@
 <p>cmd in terminal  </p>
 <p>npm instal nodemon  </p>
 <p>npm start </p>
+
+<p>first open part 2 and add admin in database then open part 1 </p>
